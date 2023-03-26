@@ -18,6 +18,8 @@ print(">"*20 + " LISTA DE EXERCÍCIOS " + "<"*20)
 
 # Crie um programa que soma dois números e imprima na tela a soma
 
+# Crie um programa que mostre o maior número entre dois números recebidos pelo usuário
+
 # Crie um programa que mostre o antecessor de um número e o sucessor
 #   "Analisando o número {NUM}: Antecessor é {ANT} e o Sucessor é {SUC}"
 
