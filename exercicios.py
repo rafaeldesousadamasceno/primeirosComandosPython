@@ -20,6 +20,18 @@ print(">"*20 + " LISTA DE EXERCÍCIOS " + "<"*20)
 
 # Crie um programa que mostre o maior número entre dois números recebidos pelo usuário
 
+# Crie um programa que mostre se um número é par ou ímpar
+
+# Crie um programa que calcula a média e determinar se a média for maior que 7 aluno "aprovado", se nota menor que 7 maior ou igual a 5 "Recuperação" se for menor que 5 "reprovado"
+
+# Crie um programa que calcule o valor unitário é de R$ 10,00 (Lojão do 10 reais) o desconto do valor total satisfazendo os seguintes critérios:
+#   Até 10 unidades, valor não tem desconto
+#   Entre 11 e 20 o valor do desconto é 10%
+#   E mais do que 20 unidades o desconto é 20%
+
+# Crie um programa que calcule a soma de todos os números PARES de uma lista
+#   Bônus: Soma dos ímpares
+
 # Crie um programa que mostre o antecessor de um número e o sucessor
 #   "Analisando o número {NUM}: Antecessor é {ANT} e o Sucessor é {SUC}"
 
