@@ -1,0 +1,4 @@
+Olá Mundo a partir de um arquivo externo.
+Rafael Damasceno é o autor.
+Testando o leitor de linhas de arquivo.
+Utilizando o laço for para andar em cada linha.Adicionando texto no final do arquivo.
